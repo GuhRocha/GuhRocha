@@ -1,8 +1,8 @@
 **Olá, eu sou o Gustavo Rocha!!**
 
-- 💻   Busco me tornar um Desenvolvedor Fullstack
+- 💻   Busco me tornar um Desenvolvedor Java
 - 📫   Como entrar em contato comigo? (gustavolr401@outlook.com)
-- 🚀   Meu website: https://meu-website-two.vercel.app/
+- 🚀   Meu website: www.gustavorocha-dev.com
 
   ##
   
