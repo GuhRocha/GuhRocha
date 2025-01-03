@@ -7,9 +7,9 @@
   ##
   
 <div align="center">
-  <a href="https://github.com/GuuhLana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuuhLana&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuuhLana&layout=compact&langs_count=6&theme=merko"/>
+  <a href="https://github.com/GuhRocha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuhRocha&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuhRocha&layout=compact&langs_count=6&theme=merko"/>
 </div>
 
 
@@ -35,6 +35,6 @@
   <a href = "mailto:gustavolr401@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-lana-86aa191a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
- ![Snake animation](https://github.com/GuuhLana/GuuhLana/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/GuhRocha/GuhRocha/blob/output/github-contribution-grid-snake.svg)
  
 </div>
